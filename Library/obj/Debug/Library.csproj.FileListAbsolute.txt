@@ -1,0 +1,12 @@
+C:\Users\Adm11\Desktop\Hotel\Library\bin\Debug\Library.exe.config
+C:\Users\Adm11\Desktop\Hotel\Library\bin\Debug\Library.exe
+C:\Users\Adm11\Desktop\Hotel\Library\bin\Debug\Library.pdb
+C:\Users\Adm11\Desktop\Hotel\Library\bin\Debug\BLL.dll
+C:\Users\Adm11\Desktop\Hotel\Library\bin\Debug\DAL.dll
+C:\Users\Adm11\Desktop\Hotel\Library\bin\Debug\BLL.pdb
+C:\Users\Adm11\Desktop\Hotel\Library\bin\Debug\DAL.pdb
+C:\Users\Adm11\Desktop\Hotel\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\Adm11\Desktop\Hotel\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Adm11\Desktop\Hotel\Library\obj\Debug\Library.csproj.CopyComplete
+C:\Users\Adm11\Desktop\Hotel\Library\obj\Debug\Library.exe
+C:\Users\Adm11\Desktop\Hotel\Library\obj\Debug\Library.pdb
